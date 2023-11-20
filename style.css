@@ -1,0 +1,30 @@
+.titulo{text-align: center;} 
+calculator { 
+     width: 300px;
+     margin: 0 auto; 
+     border: 1px solid #bd5e5e;
+     border-radius: 5px;
+ } 
+ 
+ #result {
+     width: 100%;
+     margin-bottom: 10px; 
+     padding: 5px;
+     font-size: 18px; 
+     background-color: Org(230, 230, 236) ;
+ }
+  
+ .buttons {
+     display: grid;
+     grid-template-columns: repeat(4, 1fr); 
+     grid-gap: 5px;
+  }
+  
+ button {
+     width: 100%; 
+     padding: 10px; 
+     font-size: 16px; 
+     background-color: 
+     border: none;
+     
+     ■#346d38; 29 30 31 37 } button: hover f background-color: Ungb(8, 3, 4) ; 33 34 35 button:activel background-color: Daqua; ) X Ln 1,

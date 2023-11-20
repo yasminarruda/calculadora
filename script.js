@@ -19,7 +19,7 @@ function  calculate() {
         document.getElementById('result').value = 'Error';
         expression = '';
     }
-} 
+
 
 function clear() {
     expression = '';
