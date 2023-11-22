@@ -26,5 +26,10 @@ calculator {
      font-size: 16px; 
      background-color: 
      border: none;
-     
-     ■#346d38; 29 30 31 37 } button: hover f background-color: Ungb(8, 3, 4) ; 33 34 35 button:activel background-color: Daqua; ) X Ln 1,
+ }     
+     button:hover{
+         background-color: rgb(8, 3, 4) ;
+}
+         button:active{
+             background-color: aqua;
+}
